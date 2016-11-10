@@ -2441,4 +2441,4 @@ div[data-dimension] {
 .side_menu li a{font-size: 1.2em;color: #fff;text-align: center;}
 .side_menu li {background-color: rgba(35, 64, 143, 0.77);text-align: center;padding: 5px;border-bottom: 1px #fff solid;}
 .side_menu li:hover,.side_menu li.active {background-color: rgba(35, 64, 143, 1); }
-.sub_menu_title{background-color: #eee;color: #243f8e;text-align: center;margin-bottom: 0px;padding: 5px;}
+.sub_menu_title{background-color: #efefef;color: #243f8e;text-align: center;margin-bottom: 0px;padding: 5px;}
